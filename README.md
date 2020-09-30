@@ -1,2 +1,2 @@
-# Binary_To_Image
-Take binary and converts it to binary (green pixels are delimiters)
+# Binary-To-Image
+Takes binary and converts it to an image (green pixels are delimiters)
